@@ -163,4 +163,4 @@ nada" cuando en realidad nunca reinició.
 
 ---
 
-*Valorant · Actualizado 2026-11-07 · Compartido bajo licencia MIT*
+*Valorant · Actualizado 2026-11-08 · Compartido bajo licencia MIT*
