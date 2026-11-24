@@ -163,6 +163,6 @@ nada" cuando en realidad nunca reinició.
 
 ---
 
-*Valorant · Actualizado 2026-11-23 · Compartido bajo licencia MIT*
+*Valorant · Actualizado 2026-11-24 · Compartido bajo licencia MIT*
 
-<!-- updated 2026-11-23 -->
+<!-- updated 2026-11-24 -->
